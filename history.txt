@@ -1,15 +1,3 @@
-  458  ls
-  459  pwd
-  460  clear
-  461  pwd
-  462  NOTES.md
-  463  touch NOTES.md
-  464  ls
-  465  code .
-  466  jupyter lab
-  467  downloads
-  468  how
-  469  dev
   470  cd Python/
   471  ls
   472  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
@@ -48,3 +36,15 @@
   505  git status
   506  git push
   507  history 50 > history.txt
+  508  cat history.txt
+  509  git commit -m "added terminal history"
+  510  git add
+  511  git commit -a -m "added terminal history"
+  512  git add .
+  513  git commit -m "added terminal history"
+  514  git status
+  515  git push
+  516  git commit -m "plotted to a month"
+  517  git commit -a -m "plotted to a month"
+  518  git push
+  519  history 50 > history.txt
