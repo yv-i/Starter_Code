@@ -1,0 +1,50 @@
+  458  ls
+  459  pwd
+  460  clear
+  461  pwd
+  462  NOTES.md
+  463  touch NOTES.md
+  464  ls
+  465  code .
+  466  jupyter lab
+  467  downloads
+  468  how
+  469  dev
+  470  cd Python/
+  471  ls
+  472  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  473  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  474  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  475  code .
+  476  jupyter lab
+  477  dev
+  478  cd Python/
+  479  cd Module4
+  480  ls
+  481  open .
+  482  cd /Users/josephknight/Python/UCB-VIRT-FIN-PT-03-2023-U-B 
+  483  code .
+  484  conda -list
+  485  conda list
+  486  dev
+  487  cd Python/
+  488  ls
+  489  cd UCB-VIRT-FIN-PT-03-2023-U-B/
+  490  ls
+  491  cd 04-Quantative-Analysis-with-Pandas/
+  492  ls
+  493  cd 2
+  494  ls
+  495  cd Activities/
+  496  ls
+  497  jupyter lab
+  498  dev
+  499  cd /Users/josephknight/Python/Module3/GitUpload/Starter_Code 
+  500  jupyter lab
+  501  dev
+  502  git commit -m "added plots"
+  503  git commit -m "added plots"
+  504  git commit -a -m "added plots"
+  505  git status
+  506  git push
+  507  history 50 > history.txt
